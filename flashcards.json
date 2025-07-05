@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What command is used to run a Streamlit app?",
+    "answer": "streamlit run app.py",
+    "interval": 2,
+    "next_review": "2025-07-07",
+    "correct_count": 1
+  },
+  {
+    "question": "Which function is used to write text in Streamlit?",
+    "answer": "st.write()",
+    "interval": 2,
+    "next_review": "2025-07-07",
+    "correct_count": 1
+  },
+  {
+    "question": "How do you create a slider in Streamlit?",
+    "answer": "st.slider()",
+    "interval": 2,
+    "next_review": "2025-07-07",
+    "correct_count": 1
+  },
+  {
+    "question": "Which Streamlit function displays a line chart?",
+    "answer": "st.line_chart()",
+    "interval": 1,
+    "next_review": "2025-07-06",
+    "correct_count": 0
+  },
+  {
+    "question": "How do you create tabs in Streamlit?",
+    "answer": "st.tabs()",
+    "interval": 1,
+    "next_review": "2025-07-05",
+    "correct_count": 0
+  },
+  {
+    "question": "What function is used to create a sidebar in Streamlit?",
+    "answer": "st.sidebar",
+    "interval": 2,
+    "next_review": "2025-07-07",
+    "correct_count": 1
+  },
+  {
+    "question": "How do you display a dataframe in Streamlit?",
+    "answer": "st.dataframe()",
+    "interval": 1,
+    "next_review": "2025-07-06",
+    "correct_count": 0
+  },
+  {
+    "question": "Which function is used to cache results of expensive computations?",
+    "answer": "@st.cache_data",
+    "interval": 2,
+    "next_review": "2025-07-07",
+    "correct_count": 1
+  },
+  {
+    "question": "What file extension do Streamlit apps use?",
+    "answer": ".py",
+    "interval": 1,
+    "next_review": "2025-07-06",
+    "correct_count": 0
+  },
+  {
+    "question": "Can Streamlit be used for machine learning model deployment?",
+    "answer": "Yes",
+    "interval": 1,
+    "next_review": "2025-07-06",
+    "correct_count": 0
+  },
+  {
+    "question": "What command is used to run a Streamlit app?",
+    "answer": "streamlit run app.py",
+    "interval": 1,
+    "next_review": "2025-07-05",
+    "correct_count": 0
+  },
+  {
+    "question": "What command is used to run a Streamlit app?",
+    "answer": "streamlit run app.py",
+    "interval": 1,
+    "next_review": "2025-07-05",
+    "correct_count": 0
+  }
+]
